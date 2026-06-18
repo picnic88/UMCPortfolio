@@ -7,7 +7,7 @@ import git from "../img/git.jpg";
 import github from "../img/github.png";
 import intelij from "../img/inteliJ.webp";
 import nextJs from "../img/nextJs.jpg";
-import nodeJs from "../img/nodeJs.png";
+import nodeJs from "../img/nodejs.png";
 import reactLogo from "../img/reactLogo.webp";
 import springBoot from "../img/springbootlogo.jpg";
 import sqld from "../img/sqld.jpg";
