@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+    --animate-scroll-right: slide-right 20s linear infinite;
+
+    @keyframes slide-right {
+        0% {
+            transform: translateX(-50%);
+        }
+
+        100% {
+            transform: translateX(0%);
+        }
+    }
+}
