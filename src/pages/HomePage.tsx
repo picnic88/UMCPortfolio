@@ -45,7 +45,6 @@ import mongle3 from "../img/mongle3.png"
 
 const HomePage = () => {
 
-    const logo = { c, js, ts };
     const [movieType, setMovieType] = useState("chart");
     const [type, setType] = useState("language");
     const movieChart = [

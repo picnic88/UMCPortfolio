@@ -1,7 +1,4 @@
 import { useParams } from "react-router-dom";
-import mongle1 from "../img/mongle1.png";
-import mongle2 from "../img/mongle2.png";
-import mongle3 from "../img/mongle3.png";
 import { projectList } from "./MyMovieLog.tsx"
 
 

@@ -8,7 +8,6 @@ import theme from "./theme";
 import { store } from "./redux";
 import ReactDOM from "react-dom/client";
 import { Provider } from "react-redux";
-import { BrowserRouter } from "react-router-dom";
 import { ThemeProvider } from "@mui/material/styles";
 
 ReactDOM.createRoot(document.querySelector("#root")!).render(
